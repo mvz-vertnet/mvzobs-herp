@@ -1,0 +1,77 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:mvz" ; Times: 2
+	Query: "country:"Mexico" specificepithet:taylori genus:Trachemys year >= 1970 year <= 2015" ; Times: 1
+	Query: "Phrynosoma (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "Thamnophis elegans idaho" ; Times: 4
+	Query: "institutioncode:MVZ" ; Times: 1
+	Query: "thamnophis elegans bannock idaho" ; Times: 2
+	Query: "contia" ; Times: 1
+	Query: "country:"Mexico" genus:Trachemys (Trachemys OR yaquia) year >= 1980 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 18 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 37
+Total number of records retrieved from searches: 51
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 34
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 44
+Total number of records retrieved from searches: 89
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 77
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
