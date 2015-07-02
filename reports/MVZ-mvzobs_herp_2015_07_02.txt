@@ -1,0 +1,74 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "photo" ; Times: 1
+	Query: ""urosaurus graciosus" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "institutioncode:MVZ" ; Times: 2
+	Query: "institutioncode:mvz" ; Times: 1
+	Query: "oman" ; Times: 2
+	Query: "Alameda zonata" ; Times: 2
+	Query: "phrynosoma solare" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1524 download events in this period)
+Total number of records downloaded: 4 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "oman" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 47
+Total number of records retrieved from searches: 67
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 38
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 54
+Total number of records retrieved from searches: 105
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 81
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
