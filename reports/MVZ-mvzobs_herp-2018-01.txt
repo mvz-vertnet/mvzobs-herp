@@ -1,0 +1,55 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Lithuania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "institutioncode:MVZ" ; Times: 4
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Under tin reptilia country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Under tin country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1398 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Lithuania ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "order:Testudines institutioncode:MVZ" ; Times: 1
+
+
+End of report.
