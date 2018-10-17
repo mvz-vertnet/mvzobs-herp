@@ -1,0 +1,59 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 4
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:observation continent:Asia" ; Times: 1
+	Query: "amphibia huehuetenango" ; Times: 1
+	Query: "Nacozari reptilia" ; Times: 2
+	Query: "institutioncode:MVZ" ; Times: 4
+	Query: "Mt Kupe" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "vntype:observation continent:Asia year &gt;= 2007 year &lt;= 2018" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 977 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:MVZ" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "vntype:observation continent:Asia year &gt;= 2007 year &lt;= 2018" ; Times: 2
+	Query: "vntype:observation continent:Asia" ; Times: 1
+
+
+End of report.
