@@ -1,0 +1,73 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 86
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 4
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-22 ; Times: 6
+	Date: 2018-11-29 ; Times: 8
+	Date: 2018-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eirenis" ; Times: 2
+	Query: "institutioncode:MVZ hassex:1" ; Times: 1
+	Query: "institutioncode:MVZ catalognumber:(1 OR 2)" ; Times: 6
+	Query: "panama reptile" ; Times: 1
+	Query: "specificepithet:bombina" ; Times: 1
+	Query: "institutioncode:mvz" ; Times: 2
+	Query: "genus:contia year &gt;= 1991 year &lt;= 2018" ; Times: 1
+	Query: "institutioncode:MVZ AND catalognumber:(1 OR 2)" ; Times: 1
+	Query: "locality:Berkeley stateprovince:&#34;California&#34; country:&#34;United States&#34; institutioncode:MVZ" ; Times: 1
+	Query: "bombina bombina" ; Times: 2
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "institutioncode:MVZ and catalognumber:(1 OR 2)" ; Times: 1
+	Query: "genus:contia" ; Times: 1
+	Query: "institutioncode:MVZ" ; Times: 2
+	Query: "phrynosoma ditmarsi" ; Times: 4
+	Query: "panama amphibian" ; Times: 2
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "lifestage:Adult institutioncode:MVZ" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States&#34; institutioncode:MVZ" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1719 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "family:Plethodontidae" ; Times: 1
+
+
+End of report.
