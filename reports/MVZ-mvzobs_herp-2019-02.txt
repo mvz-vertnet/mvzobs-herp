@@ -1,0 +1,46 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Bolitoglossa specificepithet:jacksoni" ; Times: 1
+	Query: "eirenis" ; Times: 1
+	Query: "genus:Oedipina institutioncode:MVZ" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "institutioncode:mvz 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1227 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oedipina institutioncode:MVZ" ; Times: 1
+
+
+End of report.
