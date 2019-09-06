@@ -1,0 +1,45 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia institutioncode:MVZ year&gt;=2015 year&lt;=2019" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "specificepithet:ditmarsi genus:Phrynosoma" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1034 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "callisaurus draconoides" ; Times: 2
+	Query: "contia tenuis" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+
+
+End of report.
