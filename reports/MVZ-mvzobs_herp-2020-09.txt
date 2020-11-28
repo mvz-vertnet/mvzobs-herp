@@ -1,0 +1,35 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphibia" ; Times: 2
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+
+
+End of report.
