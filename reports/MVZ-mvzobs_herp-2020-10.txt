@@ -1,0 +1,48 @@
+Report for Institution Code MVZ, Resource mvzobs_herp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;alameda&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Alameda&#34;" ; Times: 1
+	Query: "locality:Fortuna country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Contia" ; Times: 1
+	Query: "phrynosoma ditmarsi" ; Times: 3
+	Query: "vntype:observation hastypestatus:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1521 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
